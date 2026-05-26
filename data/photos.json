@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "slug": "quiet-window-light",
+    "title": "Quiet Window Light",
+    "description": "Soft afternoon light falling across a still profile.",
+    "category": "Portrait",
+    "tags": ["natural light", "indoor", "mood"],
+    "date": "2025-09-14",
+    "src": "https://picsum.photos/id/64/800/1200",
+    "thumbnail": "https://picsum.photos/id/64/400/600",
+    "width": 800,
+    "height": 1200,
+    "exif": {
+      "camera": "Sony A7 IV",
+      "lens": "85mm f/1.4 GM",
+      "focalLength": "85mm",
+      "aperture": "f/1.8",
+      "shutterSpeed": "1/250s",
+      "iso": "200"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "studio-gaze",
+    "title": "Studio Gaze",
+    "description": "A controlled studio portrait with a single key light.",
+    "category": "Portrait",
+    "tags": ["studio", "black and white", "close-up"],
+    "date": "2025-08-02",
+    "src": "https://picsum.photos/id/65/800/1100",
+    "thumbnail": "https://picsum.photos/id/65/400/550",
+    "width": 800,
+    "height": 1100,
+    "exif": {
+      "camera": "Canon EOS R5",
+      "lens": "50mm f/1.2 L",
+      "focalLength": "50mm",
+      "aperture": "f/2.0",
+      "shutterSpeed": "1/200s",
+      "iso": "100"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "morning-balcony",
+    "title": "Morning on the Balcony",
+    "description": "Candid portrait caught in early golden hour.",
+    "category": "Portrait",
+    "tags": ["golden hour", "candid", "outdoor"],
+    "date": "2025-07-21",
+    "src": "https://picsum.photos/id/91/800/1000",
+    "thumbnail": "https://picsum.photos/id/91/400/500",
+    "width": 800,
+    "height": 1000,
+    "exif": {
+      "camera": "Fujifilm X-T5",
+      "lens": "56mm f/1.2",
+      "focalLength": "56mm",
+      "aperture": "f/1.6",
+      "shutterSpeed": "1/500s",
+      "iso": "160"
+    }
+  },
+  {
+    "id": "4",
+    "slug": "stairwell-portrait",
+    "title": "Stairwell",
+    "description": "Geometry and a figure framed by concrete steps.",
+    "category": "Portrait",
+    "tags": ["architecture", "moody", "shadow"],
+    "date": "2025-06-09",
+    "src": "https://picsum.photos/id/177/800/1200",
+    "thumbnail": "https://picsum.photos/id/177/400/600",
+    "width": 800,
+    "height": 1200,
+    "exif": {
+      "camera": "Nikon Z6 II",
+      "lens": "35mm f/1.8 S",
+      "focalLength": "35mm",
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/160s",
+      "iso": "400"
+    }
+  },
+  {
+    "id": "5",
+    "slug": "valley-fog",
+    "title": "Valley Fog",
+    "description": "Low fog rolling through a forested valley at dawn.",
+    "category": "Landscape",
+    "tags": ["fog", "mountains", "dawn"],
+    "date": "2025-10-03",
+    "src": "https://picsum.photos/id/10/1200/800",
+    "thumbnail": "https://picsum.photos/id/10/600/400",
+    "width": 1200,
+    "height": 800,
+    "exif": {
+      "camera": "Sony A7R V",
+      "lens": "16-35mm f/2.8 GM",
+      "focalLength": "24mm",
+      "aperture": "f/11",
+      "shutterSpeed": "1/60s",
+      "iso": "100"
+    }
+  },
+  {
+    "id": "6",
+    "slug": "coastal-cliffs",
+    "title": "Coastal Cliffs",
+    "description": "Late light raking across weathered sea cliffs.",
+    "category": "Landscape",
+    "tags": ["coast", "golden hour", "wide"],
+    "date": "2025-09-28",
+    "src": "https://picsum.photos/id/15/1200/800",
+    "thumbnail": "https://picsum.photos/id/15/600/400",
+    "width": 1200,
+    "height": 800,
+    "exif": {
+      "camera": "Canon EOS R6",
+      "lens": "24-70mm f/2.8 L",
+      "focalLength": "35mm",
+      "aperture": "f/8",
+      "shutterSpeed": "1/125s",
+      "iso": "100"
+    }
+  },
+  {
+    "id": "7",
+    "slug": "alpine-lake",
+    "title": "Alpine Lake",
+    "description": "A still mountain lake mirroring the ridgeline.",
+    "category": "Landscape",
+    "tags": ["reflection", "mountains", "water"],
+    "date": "2025-08-17",
+    "src": "https://picsum.photos/id/27/1200/780",
+    "thumbnail": "https://picsum.photos/id/27/600/390",
+    "width": 1200,
+    "height": 780,
+    "exif": {
+      "camera": "Nikon Z7 II",
+      "lens": "14-30mm f/4 S",
+      "focalLength": "20mm",
+      "aperture": "f/9",
+      "shutterSpeed": "1/100s",
+      "iso": "64"
+    }
+  },
+  {
+    "id": "8",
+    "slug": "desert-dunes",
+    "title": "Desert Dunes",
+    "description": "Wind-carved ridgelines under a hard noon sun.",
+    "category": "Landscape",
+    "tags": ["desert", "minimal", "texture"],
+    "date": "2025-05-30",
+    "src": "https://picsum.photos/id/29/1200/900",
+    "thumbnail": "https://picsum.photos/id/29/600/450",
+    "width": 1200,
+    "height": 900,
+    "exif": {
+      "camera": "Fujifilm GFX 100S",
+      "lens": "32-64mm f/4",
+      "focalLength": "45mm",
+      "aperture": "f/11",
+      "shutterSpeed": "1/250s",
+      "iso": "100"
+    }
+  },
+  {
+    "id": "9",
+    "slug": "crosswalk-rush",
+    "title": "Crosswalk Rush",
+    "description": "Commuters blur across a rain-slicked intersection.",
+    "category": "Street",
+    "tags": ["city", "motion", "rain"],
+    "date": "2025-10-11",
+    "src": "https://picsum.photos/id/122/1000/800",
+    "thumbnail": "https://picsum.photos/id/122/500/400",
+    "width": 1000,
+    "height": 800,
+    "exif": {
+      "camera": "Ricoh GR III",
+      "lens": "28mm f/2.8",
+      "focalLength": "28mm",
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/30s",
+      "iso": "800"
+    }
+  },
+  {
+    "id": "10",
+    "slug": "neon-alley",
+    "title": "Neon Alley",
+    "description": "A narrow lane lit only by storefront neon.",
+    "category": "Street",
+    "tags": ["night", "neon", "color"],
+    "date": "2025-09-05",
+    "src": "https://picsum.photos/id/142/800/1000",
+    "thumbnail": "https://picsum.photos/id/142/400/500",
+    "width": 800,
+    "height": 1000,
+    "exif": {
+      "camera": "Sony A7C",
+      "lens": "35mm f/1.8",
+      "focalLength": "35mm",
+      "aperture": "f/2.0",
+      "shutterSpeed": "1/125s",
+      "iso": "1600"
+    }
+  },
+  {
+    "id": "11",
+    "slug": "market-morning",
+    "title": "Market Morning",
+    "description": "Vendors setting up stalls in the early light.",
+    "category": "Street",
+    "tags": ["market", "candid", "morning"],
+    "date": "2025-07-08",
+    "src": "https://picsum.photos/id/160/1100/800",
+    "thumbnail": "https://picsum.photos/id/160/550/400",
+    "width": 1100,
+    "height": 800,
+    "exif": {
+      "camera": "Leica Q2",
+      "lens": "28mm f/1.7",
+      "focalLength": "28mm",
+      "aperture": "f/4",
+      "shutterSpeed": "1/200s",
+      "iso": "200"
+    }
+  },
+  {
+    "id": "12",
+    "slug": "subway-platform",
+    "title": "Subway Platform",
+    "description": "A lone figure waiting under fluorescent light.",
+    "category": "Street",
+    "tags": ["transit", "minimal", "solitude"],
+    "date": "2025-06-22",
+    "src": "https://picsum.photos/id/175/800/1150",
+    "thumbnail": "https://picsum.photos/id/175/400/575",
+    "width": 800,
+    "height": 1150,
+    "exif": {
+      "camera": "Fujifilm X100V",
+      "lens": "23mm f/2",
+      "focalLength": "23mm",
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/60s",
+      "iso": "1250"
+    }
+  }
+]

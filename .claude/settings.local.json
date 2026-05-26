@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "PowerShell(\\(Get-ChildItem -Path \"C:\\\\Users\\\\ngavi\\\\Desktop\\\\Code\\\\claudeCode-photo-portfolio\" -Force | Measure-Object\\).Count)",
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "Bash(npm --version)",
+      "Bash(npx *)"
     ]
   }
 }
