@@ -1,0 +1,123 @@
+{
+  "source": "ScreenRecording_11-25-2026_01-49-29_1.mp4 (Instagram reel 'Airports', screen-recorded on iPhone)",
+  "method": "Hand-labelled by eye: first pass from 10 fps contact sheets, then re-labelled frame by frame from native 60 fps strips around each cut. Each time is the first frame of the new shot (or of the flash that covers the cut). Two early labels were wrong and are corrected: 2.30 is a flash accent, not a jump cut, and the 1.75-2.15 flashes are deliberate object white-outs, not stutter.",
+  "tolerance_s": 0.05,
+  "content_end": 14.45,
+  "cuts": [
+    {
+      "time": 3.6,
+      "kind": "hard cut",
+      "note": "terminal -> vending machines"
+    },
+    {
+      "time": 6.55,
+      "kind": "flash-masked cut",
+      "note": "2-frame white flash (6.550-6.567) after a short zoom, then low-angle pole at 6.583"
+    },
+    {
+      "time": 7.283,
+      "kind": "hard cut",
+      "note": "pole -> plane on the apron"
+    },
+    {
+      "time": 9.433,
+      "kind": "flash-masked cut",
+      "note": "2-frame over-saturated cyan flash (9.433-9.450) at the end of the masked engine reveal"
+    },
+    {
+      "time": 11.417,
+      "kind": "hard cut",
+      "note": "jet bridge -> bench silhouette"
+    },
+    {
+      "time": 12.317,
+      "kind": "hard cut",
+      "note": "bench -> sunset wing"
+    }
+  ],
+  "ambiguous": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "note": "Instagram play overlay at the start of the recording"
+    },
+    {
+      "start": 2.3,
+      "end": 2.4,
+      "note": "white silhouette flash 2.317-2.367 - same pose before and after, so NOT a cut (corrected after 60 fps review)"
+    },
+    {
+      "start": 8.65,
+      "end": 9.4,
+      "note": "circular masks reveal the next shot's engines"
+    },
+    {
+      "start": 10.2,
+      "end": 11.15,
+      "note": "woman composited in at 10.3, then the jet-bridge inset grows to full frame by 11.1"
+    },
+    {
+      "start": 13.3,
+      "end": 14.45,
+      "note": "fade to black"
+    }
+  ],
+  "events": [
+    {
+      "start": 0.633,
+      "end": 0.733,
+      "type": "title fades in",
+      "note": "red condensed 'AIRPORTS' with glow, holds to 3.6"
+    },
+    {
+      "time": 1.75,
+      "type": "white object flash",
+      "note": "woman on the bench"
+    },
+    {
+      "time": 1.95,
+      "type": "white object flash",
+      "note": "suitcase"
+    },
+    {
+      "time": 2.15,
+      "type": "white object flash",
+      "note": "suitcase reflection"
+    },
+    {
+      "time": 2.317,
+      "type": "white object flash",
+      "note": "man (2.317-2.367) - same pose before/after, so no cut"
+    },
+    {
+      "time": 4.683,
+      "type": "white object flash",
+      "note": "circle on the vending sign"
+    },
+    {
+      "time": 8.217,
+      "type": "white object flash",
+      "note": "plane door"
+    },
+    {
+      "start": 8.7,
+      "end": 9.45,
+      "type": "masked reveal"
+    },
+    {
+      "time": 10.3,
+      "type": "composite",
+      "note": "woman layered over the plane-front plate"
+    },
+    {
+      "start": 10.4,
+      "end": 11.1,
+      "type": "inset grows to full frame"
+    },
+    {
+      "start": 13.4,
+      "end": 14.45,
+      "type": "fade out"
+    }
+  ]
+}

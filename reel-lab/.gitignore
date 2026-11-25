@@ -1,0 +1,15 @@
+# media never goes in git: large, and reels belong to other people
+media/
+*.mp4
+*.mov
+*.mxf
+*.m4v
+*.wav
+*.mp3
+*.aac
+# images generated from reels (stills of someone else's work) stay local
+references/**/*.jpg
+references/**/*.png
+# python
+.venv/
+__pycache__/

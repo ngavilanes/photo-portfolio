@@ -1,0 +1,11 @@
+shot,start,end,duration,cut_in,cut_offset_beat_ms,camera_move,move_speed_pct_w_per_s,tone,luma,contrast,saturation,palette,verified_cut_time,technique,why_it_works
+1,0.3,3.62,3.32,start,,subject motion (camera ~static),0.2,green tint,97.9,194.0,0.2,#201716 #b0c9bd #363c38 #91a89d #677b74,,,
+2,3.62,6.59,2.97,hard cut,69,"subject motion (camera ~static), handheld",0.5,neutral,69.0,235.0,0.26,#121212 #35342a #675b44 #9a967c #e0ddc0,,,
+3,6.59,7.291,0.701,hard cut,113,tilt down,8.5,green tint,102.0,165.0,0.37,#62a09c #5e7e77 #0b0e14 #394d4b #cfd8c7,,,
+4,7.291,9.46,2.169,hard cut,71,pan right,1.7,green tint,119.1,171.0,0.3,#6e9e8e #405949 #59745f #a9c7a7 #1b2926,,,
+5,9.46,10.244,0.784,hard cut,81,subject motion (camera ~static),1.3,green tint,104.1,149.0,0.31,#6f8d7d #5a7a6c #38574f #182927 #52c6b8,,,
+6,10.244,10.511,0.267,hard cut,145,push in,2.7,green tint,99.3,178.0,0.26,#6d8879 #54685d #33413c #101518 #c0b8a7,,,
+7,10.511,11.045,0.534,hard cut,41,pull out,2.4,desaturated,101.1,188.0,0.16,#6f7062 #4a4943 #171719 #9a9182 #c0b6a4,,,
+8,11.045,11.412,0.367,hard cut,-145,"push in, handheld",15.5,desaturated,127.0,244.0,0.16,#c4b8a9 #2c2a2a #9c8f81 #5b554f #f3f1e4,,,
+9,11.412,12.313,0.901,hard cut,-150,pull out,2.0,green tint,99.8,149.0,0.22,#85a08a #4e6456 #0e0d0f #718c7b #233530,,,
+10,12.313,14.399,2.086,hard cut,32,"pan left, handheld",17.2,magenta/purple,48.1,156.0,0.37,#0d0910 #261e2e #493648 #7e5760 #b78975,,,
